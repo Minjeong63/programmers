@@ -1,5 +1,3 @@
 function solution(message) {
-  let answer = "";
-  return answer;
+  return message.split("").length * 2;
 }
-console.log("zz");
